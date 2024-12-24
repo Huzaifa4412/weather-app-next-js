@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+For more information
+[https://676b2c4d19894b61887b8d73--huxaifa-weather-app-nextjs.netlify.app/]
+
 ## Getting Started
 
 First, run the development server:
